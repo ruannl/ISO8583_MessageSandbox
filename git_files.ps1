@@ -1,1 +1,0 @@
-& git ls-tree --full-tree -r HEAD
