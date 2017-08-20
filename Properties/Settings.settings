@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VodacomMessageSandbox.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IPAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">41.1.224.71</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">39008</Value>
+    </Setting>
+    <Setting Name="msisdn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">027832298563</Value>
+    </Setting>
+    <Setting Name="InstitutionId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">901051</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
